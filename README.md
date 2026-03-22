@@ -90,3 +90,26 @@ Selected model will download on app start.
 
 ## How to convert `.PT` to `.MLPACKAGE`?
 What is `.mlpackage`?
+<br>`.mlpackage` is a modern model container format introduced by Apple, designed to replace the older `.mlmodel` for use with the Core ML framework. It is specifically optimized for Apple Silicon (M1, M2, M3, M4) and serves as the primary bridge to unlock the full power of the Neural Engine (ANE).
+
+1. Download packages via pip
+```bash
+pip install ultralytics coremltools
+```
+2. Type this command into a terminal (make sure it is MacVision root directory)
+```bash
+python3 pt2ml.py --file youtyolofile.pt
+```
+3. Change in `macvision.py`:
+```python
+model = YOLO("file.mlpackage")
+```
+READY TO USE!
+
+## HAVE FUN USING THIS PROJECT!
+
+## Project is licensed under MIT LICENSE
+More [here](LICENSE)!
+
+## Authors
+OneDevelopment

@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from ultralytics import YOLO
 
-# Download face models at https://huggingface.co/deepghs/yolo-face/tree/main
+# Download face models at https://huggingface.co/deepghs/yolo-face/tree/main or in Releases tab on github.com/OneDevelopmentPL/MacVision/releases
 MODEL_PATH = "yolov8n-face.pt"
 REPLACEMENT_IMG = "face.png"
 

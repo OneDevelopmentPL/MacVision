@@ -42,7 +42,7 @@ source .venv/bin/activate
 ```bash
 pip3 install -r requirements_face.txt
 ```
-4. Download -face models (some are in Release tab, but if model disappoints, you can download different model [here](https://huggingface.co/deepghs/yolo-face/tree/main)
+4. Download -face models (some are in Release tab, but if model disappoints, you can download different model [here](https://huggingface.co/deepghs/yolo-face/tree/main))
 5. Place the model in the `facechanging` folder.
 6. Place the face image in the `facechanging`.
 7. Edit `facechanging.py` file and fill the settings:

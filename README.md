@@ -83,7 +83,7 @@ Selected model will download on app start.
 
 ## Tested models by me:
 *Tested on Mac mini M4 16GB RAM*
-yolov8n -> very fast (30-50FPS)
-yolov8s -> not tested
-yolov8m -> mid (15-20FPS)
-yolov8l -> bad (5-10FPS)
+<br>yolov8n -> very fast (30-50FPS)
+<br>yolov8s -> not tested
+<br>yolov8m -> mid (15-20FPS)
+<br>yolov8l -> bad (5-10FPS)

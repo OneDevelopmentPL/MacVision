@@ -1,0 +1,6 @@
+.venv
+yolov8s.pt
+.DS_Store
+model-2.pt
+face.png
+yolov8n-face.pt

@@ -87,3 +87,6 @@ Selected model will download on app start.
 <br>yolov8s -> not tested
 <br>yolov8m -> mid (15-20FPS)
 <br>yolov8l -> bad (5-10FPS)
+
+## How to convert `.PT` to `.MLPACKAGE`?
+What is `.mlpackage`?

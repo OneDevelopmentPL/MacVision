@@ -61,7 +61,7 @@ TEXT_LABEL = "Face"
 ```
 8. Run the file
 ```bash
-python3 facechanging.pt
+python3 facechanging.py
 ```
 
 Quit pressing `q` button.

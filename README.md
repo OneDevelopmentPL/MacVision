@@ -82,8 +82,8 @@ In `macvision.py` change:
 Selected model will download on app start.
 
 ## Tested models by me:
-> Tested on Apple Mac mini M4 16GB RAM
-<br>yolov8n -> very fast (30-50FPS)
+*Tested on Mac mini M4 16GB RAM*
+yolov8n -> very fast (30-50FPS)
 yolov8s -> not tested
 yolov8m -> mid (15-20FPS)
 yolov8l -> bad (5-10FPS)

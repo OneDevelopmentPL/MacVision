@@ -8,7 +8,7 @@ REPLACEMENT_IMG = "face.png"
 
 USE_DEFAULT_SIZE = False
 DRAW_BOX = True
-TEXT_LABEL = "#MATA2040"
+TEXT_LABEL = "Face"
 
 model = YOLO(MODEL_PATH)
 
